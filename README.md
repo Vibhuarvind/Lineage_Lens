@@ -207,10 +207,13 @@ For production deployment:
 ## 📈 Business Value
 
 **For Data Engineers**: Faster debugging and impact analysis
+
 **For Business Analysts**: Self-service data discovery without SQL knowledge  
+
 **For Data Governance**: Automated documentation and compliance tracking
+
 **For Leadership**: Clear visibility into data dependencies and risks
 
 ---
 
-*Built with ❤️ for the Mindstream Hackathon - Transforming complex data lineage into actionable insights*
+*Built with ❤️ by the Mindstream Makers Hack-a-Prompt - Transforming complex data lineage into actionable insights*
