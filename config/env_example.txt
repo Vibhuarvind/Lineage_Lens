@@ -1,0 +1,16 @@
+# Claude API Configuration
+# For standard Anthropic API
+#ANTHROPIC_API_KEY=your_claude_api_key_here
+
+# For Rakuten Open API (uncomment and configure if using Rakuten)
+ANTHROPIC_BASE_URL=https://api.ai.public.rakuten-it.com/anthropic/
+ANTHROPIC_API_KEY=your_rakuten_bearer_token_here
+
+# Claude Model Configuration
+CLAUDE_MODEL=claude-sonnet-4-20250514
+CLAUDE_TEMPERATURE=0.1
+
+# Application Configuration
+APP_TITLE=Lineage Lens
+APP_DESCRIPTION=Intelligent Data Lineage Analysis Platform
+DEBUG_MODE=false

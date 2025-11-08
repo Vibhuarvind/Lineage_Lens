@@ -1,0 +1,9 @@
+/Lineage_Lens_Presentation.pptx
+/Lineage_Lens_Visual_Presentation.pptx
+.env
+.DS_Store
+_pycaché/
+__pycache__/
+__init__.py
+*.pyc
+.pylintrc
