@@ -8,20 +8,14 @@ Lineage Lens is an AI-powered platform that automatically extracts and explains 
 
 ### Prerequisites
 - Python 3.8+
-- Node.js 16+ (for React frontend)
 - Claude API key from Anthropic
 
 ### Choose Your Interface
 
-#### Option 1: React Frontend (Recommended)
-```bash
-cd Mindstream_Maker/react-frontend
-./run_react.sh
-```
+#### Streamlit Backend
 
-#### Option 2: Streamlit Backend
 ```bash
-cd Mindstream_Maker/code
+cd Lineage_Lens/code
 ./run_app.sh
 ```
 
@@ -29,7 +23,7 @@ cd Mindstream_Maker/code
 
 1. **Clone and navigate to the project:**
    ```bash
-   cd Mindstream_Maker/code
+   cd Lineage_Lens/code
    ```
 
 2. **Install dependencies:**
